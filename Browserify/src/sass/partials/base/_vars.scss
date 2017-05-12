@@ -1,0 +1,16 @@
+// Susy
+$susy: (
+  columns: 12,
+  gutters: 1/4,
+  math: fluid,
+  output: float,
+  gutter-position: after
+);
+
+$container-width: 1200px;
+
+// Breakpoints
+$small: 480px;
+$smalltomedium: 480px 768px;
+$medium: 768px;
+$large: 1024px;
